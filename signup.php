@@ -1,4 +1,9 @@
 <?php 
+
+	/*	PHP Login System 
+		Develop by: Tanvir Hasan 
+		www.webdevtanvirl.com */
+
 	session_start();
 	require 'db.php';
 
@@ -34,7 +39,6 @@
 
 				$mess = "SORRY!";
 			}
-
 
 	}
 ?>
